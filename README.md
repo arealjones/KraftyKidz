@@ -22,6 +22,6 @@ If you ever want to see how it looks on your individual computer, you will have 
 - Create a new project
 - Replace the src folder in your project file with the one here on GitHub
 
-If you make changes to the code, only push the src file to this repo. <br>
-
 You should only have to do this once. Afterwards, you will be able to pull from this repo and then be able to run the website. Let me know if you have any issues. Once we are done building the website fully, I'll have to see how to transition the code to AWS so it can be viewed properly. <br>
+
+If you make changes to the code, only push the src file to this repo. <br>
