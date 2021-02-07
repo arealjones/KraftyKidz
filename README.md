@@ -26,4 +26,4 @@ You should only have to do this once. Afterwards, you will be able to pull from 
 
 If you make changes to the code, only push the src file to this repo. <br>
 
-Ok i will see how this goes, gonna need to go over the react. -Nick <br>
+This is changed <br>
